@@ -35,7 +35,6 @@ struct st_IdAlloc
 	int notUse2 = UINT_MAX;
 };
 
-
 //º°»ý¼º(1)	Type(4Byte) | ID(4Byte) | X(4Byte) | Y(4Byte)
 struct st_StarMake
 {
